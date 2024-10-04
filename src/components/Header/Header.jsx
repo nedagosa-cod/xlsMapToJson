@@ -1,4 +1,4 @@
-import viteLogo from "/vite.svg";
+import viteLogo from "/logo.png";
 
 const Header = () => {
   return (
